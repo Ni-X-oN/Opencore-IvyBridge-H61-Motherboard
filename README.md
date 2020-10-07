@@ -4,6 +4,8 @@ IvyBridge Hackintosh based on OpenCore 0.6.1 - Gigabyte H61 Motherboard.
 Successfully installed Mac OS Catalina 10.15.7 on an Gigabyte H61 Motherboard using the opencore 0.6.1 bootloader.
 Followed the steps mentioned in this guide: https://dortania.github.io/OpenCore-Install-Guide/
 
+Added GUI for Picker window during booting. 
+
 System Specifications:
 =====================
 1. CPU i5-3340 Quad core Processor with stock Intel cooler.
