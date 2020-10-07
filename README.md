@@ -40,7 +40,10 @@ Everthing seems to be fine. No problems discovered so far.
 SSDTs (Secondary System Description Table)
 ==========================================
 
-All required SSDT files are added in ACPI folder. <b>I recommend to regenerate the SSDT-PM for your processor during post install (The processor used is i5-3340).</b>  
+All required SSDT files are added in ACPI folder. <b>I recommend to regenerate the SSDT-PM for your processor during post installation (The processor used is i5-3340)</b>. If you have same processor
+You can use the same SSDT (SSDT-PM.aml).
+Otherwise, during the initial installation this SSDT can be omitted from the folder EFI\OC\ACPI and update the config.plist (Open in ProperTree and take an OC snapshot).
+During the post installation it can be generated with SsdtPRGen.sh script and then added in the same path and update the config.plist file.
 
 Recommendation:
 ===============
