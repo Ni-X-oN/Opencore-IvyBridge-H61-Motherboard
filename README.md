@@ -45,8 +45,7 @@ You can use the same SSDT (SSDT-PM.aml).
 Otherwise, during the initial installation this SSDT can be omitted from the folder EFI\OC\ACPI and update the config.plist (Open in ProperTree and take an OC snapshot).
 During the post installation it can be generated with SsdtPRGen.sh script and then added in the same path and update the config.plist file.
 
-Recommendation:
-================
+Note:
 One Important recommendation to get iCloud services to function properly: <b><i>Use an Apple ID which is already linked to one of your Orginal Apple Devices.</i></b> (This can avoid your Hackintosh getting blacklisted).
 
 Tools used:
