@@ -46,6 +46,8 @@ Otherwise, during the initial installation this SSDT can be omitted from the fol
 During the post installation it can be generated with SsdtPRGen.sh script and then added in the same path and update the config.plist file.
 
 Note:
+=====
+
 One Important recommendation to get iCloud services to function properly: <b><i>Use an Apple ID which is already linked to one of your Orginal Apple Devices.</i></b> (This can avoid your Hackintosh getting blacklisted).
 
 Tools used:
