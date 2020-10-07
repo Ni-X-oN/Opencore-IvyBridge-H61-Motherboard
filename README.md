@@ -43,7 +43,7 @@ SSDTs (Secondary System Description Table)
 All required SSDT files are added in ACPI folder. <b>I recommend to regenerate the SSDT-PM for your processor during post install (The processor used is i5-3340).</b>  
 
 Recommendation:
-==============
+===============
 One Important recommendation to get iCloud services to function properly: <b><i>Use an Apple ID which is already linked to one of your Orginal Apple Devices.</i></b> (This can avoid your Hackintosh getting blacklisted).
 
 Tools used:
