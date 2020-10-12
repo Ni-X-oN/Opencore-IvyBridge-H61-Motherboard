@@ -35,7 +35,7 @@ What's Working?
 
 What's Not working?
 ==================
-Everthing seems to be fine. No problems discovered so far.
+Everything seems to be fine. No problems discovered so far.
 
 SSDTs (Secondary System Description Table)
 ==========================================
