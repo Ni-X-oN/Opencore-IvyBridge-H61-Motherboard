@@ -9,7 +9,7 @@ Added GUI for Picker window during booting.
 System Specifications:
 =====================
 1. CPU i5-3340 Quad core Processor with stock Intel cooler.
-2. Gigabyte H61-MS MotherBoard.
+2. Gigabyte H61-MS Motherboard.
 3. Ram 6GB (4GB + 2 GB). Will be upgrading to 8GB Ram.
 4. Seagate 1 TB HDD.
 5. GPU: Nvidia GT 710 2GB graphics card.
