@@ -10,7 +10,7 @@ System Specifications:
 =====================
 1. CPU i5-3340 Quad core Processor with stock Intel cooler.
 2. Gigabyte H61-MS MotherBoard.
-3. Ram 6GB (4GB + 2 GB). Will be upgrading to 8GB RAm.
+3. Ram 6GB (4GB + 2 GB). Will be upgrading to 8GB Ram.
 4. Seagate 1 TB HDD.
 5. GPU: Nvidia GT 710 2GB graphics card.
 6. Circle 500W PSU.
