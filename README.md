@@ -55,3 +55,7 @@ Tools used:
 1. ProperTree. https://github.com/corpnewt/ProperTree (used on Windows 10 & Mac OS Catalina) 
 2. GenSMBIOS. https://github.com/corpnewt/GenSMBIOS   (used on Windows 10 during Pre build time)
 3. Pike's ssdtPRGen.sh. Used for generating SSDT-PM (CPU Power Management SSDT). I followed this guide for SSDT file generation. https://www.elitemacx86.com/threads/guide-how-to-generate-ssdt-for-cpu-power-management.96/. Used during Post Install in Mac OS Catalina 10.15.7.
+
+Video Link:
+==========
+To see my hackintosh in action visit the following youtube link https://www.youtube.com/watch?v=op3NTvVqVLI
