@@ -35,7 +35,11 @@ What's Working?
 
 What's Not working?
 ==================
-Everything seems to be fine. No problems discovered so far.
+Everything seems to be fine. No problems discovered so far.<br>
+<b>Added on 02 Nov 2020:</b><br>
+Problem: Instant Wake with USB keyboard and Mouse not working.<br>
+<b>Added on 12 Dec 2020:</b><br>
+Fix Status: Fixed the Instant wake problem for USB Keyboard & Mouse using the Opencore Guide.
 
 SSDTs (Secondary System Description Table)
 ==========================================
@@ -50,7 +54,7 @@ Note:
 
 One Important recommendation to get iCloud services to function properly: <b><i>Use an Apple ID which is already linked to one of your Orginal Apple Devices.</i></b> (This can avoid your Hackintosh getting blacklisted).
 
-<b>Added on 12 Dec 2020:</b>
+<b>Added on 12 Dec 2020:</b><br>
 To get update or to install MacOS 11 BigSur You have to change the SMBIOS to IMac 14,2. 
 
 Tools used:
