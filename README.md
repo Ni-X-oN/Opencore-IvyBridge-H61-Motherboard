@@ -50,6 +50,9 @@ Note:
 
 One Important recommendation to get iCloud services to function properly: <b><i>Use an Apple ID which is already linked to one of your Orginal Apple Devices.</i></b> (This can avoid your Hackintosh getting blacklisted).
 
+<b>Added on 12 Dec 2020:</b>
+To get update or to install MacOS 11 BigSur You have to change the SMBIOS to IMac 14,2. 
+
 Tools used:
 ==========
 1. ProperTree. https://github.com/corpnewt/ProperTree (used on Windows 10 & Mac OS Catalina) 
