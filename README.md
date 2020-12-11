@@ -70,4 +70,4 @@ Updated on 12 December 2020:
 2. Added instant wake support to USB keyboard and mouse. 
 3. Change the <b>BootProtect</b> option to <b>None</b>.
 4. Removed the Picker GUI and switched to deault Picker mode (Can easily be changed to Previous GUI).
-5. Created a Custom USB Port Map using Hackintool and removed USBInjectAll Kext and changed <b>XhciPortLimit</b> to <b>False</b>.
+5. Created a Custom USB Port Map using Hackintool and removed USBInjectAll Kext and changed <b>XhciPortLimit</b> to <b>False</b>. Updated All teh kexts to latest version as of 12 Dec 2020.
