@@ -25,7 +25,7 @@ What's Working?
 2. Sleep/Wake.
 3. Restart.
 4. Shutdown.
-5. Internet(RTL8111 kext v2.2.2, v2.2.3 is unable to detect the ethernet)
+5. Internet(RTL8111 kext v2.2.2. The v2.2.3 is unable to detect the ethernet)
 6. Audio (used layout id -5, can use layout id -11 [Headphones default selection]). Depends upon on motherboard audio codec, mine is Realtek ALC 887 Codec.
 7. USB.
 8. Nvidia GT 710 2GB DDR3 (Out of Box Supported).
