@@ -64,7 +64,7 @@ Changelog:
 ==========
 Updated on 12 December 2020:
 1. Updated to <b>Opencore 0.6.4</b>.
-2. Added instant wake support to USB keyBoard and mouse. 
+2. Added instant wake support to USB keyboard and mouse. 
 3. Change the <b>BootProtect</b> option to <b>None</b>.
 4. Removed the Picker GUI and switched to deault Picker mode (Can easily be changed to Previous GUI).
 5. Created a Custom USB Port Map using Hackintool and removed USBInjectAll Kext and changed <b>XhciPortLimit</b> to <b>False</b>.
