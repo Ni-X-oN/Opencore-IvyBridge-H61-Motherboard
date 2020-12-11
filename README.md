@@ -29,7 +29,7 @@ What's Working?
 6. Audio (used layout id -5, can use layout id -11 [Headphones default selection]). Depends upon on motherboard audio codec, mine is Realtek ALC 887 Codec.
 7. USB.
 8. Nvidia GT 710 2GB DDR3 (Out of Box Supported).
-9. DRM functioning successfully (Apple TV, Amazon Prime, Netflix videos are playing fine).
+9. DRM functioning successfully (Apple TV (Trailers are working, but AppleTv+ is having problem : Solution is to switch to an AMD metal GPU (Polaris+)), Amazon Prime, Netflix videos are playing fine).
 10. iCloud services (iMessage, Facetime, etc). To get this work you need a good serial number. <b>I have removed the serial used from the config.plist file due to security reasons. You can update your own serial and ROM (use your ethernet MAC address without any : or - seperation). Use GenSMBIOS https://github.com/corpnewt/GenSMBIOS.</b>
 11. Power Management.
 
