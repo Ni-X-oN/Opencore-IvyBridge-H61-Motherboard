@@ -1,7 +1,7 @@
 # Opencore-IvyBridge-H61-Motherboard
-IvyBridge Hackintosh based on OpenCore 0.6.1 - Gigabyte H61 Motherboard. 
+IvyBridge Hackintosh based on OpenCore - Gigabyte H61 Motherboard. 
 ------------------------------------------------------------------------
-Successfully installed Mac OS Catalina 10.15.7 on an Gigabyte H61 Motherboard using the opencore 0.6.1 bootloader.
+Successfully installed Mac OS Catalina 10.15.7 on an Gigabyte H61 Motherboard using the opencore 0.6.1 bootloader (Initial version).
 Followed the steps mentioned in this guide: https://dortania.github.io/OpenCore-Install-Guide/
 
 Added GUI for Picker window during booting. 
@@ -72,7 +72,7 @@ To see my hackintosh in action visit the following youtube link https://www.yout
 
 Changelog:
 ==========
-Updated on 12 December 2020:
+<b>Updated on 12 December 2020:</b>
 1. Updated to <b>Opencore 0.6.4</b>.
 2. Added instant wake support to USB keyboard and mouse. 
 3. Change the <b>BootProtect</b> option to <b>None</b>.
