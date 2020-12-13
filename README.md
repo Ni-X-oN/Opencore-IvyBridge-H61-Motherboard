@@ -55,7 +55,10 @@ Note:
 One Important recommendation to get iCloud services to function properly: <b><i>Use an Apple ID which is already linked to one of your Orginal Apple Devices.</i></b> (This can avoid your Hackintosh getting blacklisted).
 
 <b>Added on 12 Dec 2020:</b><br>
-To get update or to install MacOS 11 BigSur You have to change the SMBIOS to IMac 14,2. 
+To get update or to install MacOS 11 BigSur You have to change the SMBIOS to IMac 14,2.
+
+<b>Added on 14 Dec 2020:</b><br>
+Removed the entries for Serial Number, System UUID, MLB & ROM information in the config.plist file. Only the SMBIOS field is present and is set as IMac13,2. Please generate new values for the mentioned fields (Empty fields) using GenSMBIOS.
 
 Tools used:
 ==========
