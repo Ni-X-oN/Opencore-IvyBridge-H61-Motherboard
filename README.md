@@ -79,5 +79,5 @@ Changelog:
    4. Removed the Picker GUI and switched to deault Picker mode (Can easily be changed to Previous GUI).
    5. Created a Custom USB Port Map using Hackintool and removed USBInjectAll Kext and changed <b>XhciPortLimit</b> to <b>False</b>. Updated All teh kexts to latest version as         of 12 Dec 2020.<br>
 
-<b>Updated on 21 December 2020:</b>
+<b>Updated on 21 December 2020:</b><br>
 Changed the RAM from 6GB to 8GB.
