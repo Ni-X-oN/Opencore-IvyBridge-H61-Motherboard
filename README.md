@@ -10,7 +10,7 @@ System Specifications:
 =====================
 1. CPU i5-3330 Quad core Processor with stock Intel cooler.
 2. Gigabyte H61-MS Motherboard.
-3. Ram 6GB (4GB + 2 GB). Will be upgrading to 8GB Ram.
+3. Ram 6GB (4GB + 2 GB).
 4. Seagate 1 TB HDD.
 5. GPU: Nvidia GT 710 2GB graphics card.
 6. Circle 500W PSU.
@@ -73,8 +73,10 @@ To see my hackintosh in action visit the following youtube link https://www.yout
 Changelog:
 ==========
 <b>Updated on 12 December 2020:</b>
-1. Updated to <b>Opencore 0.6.4</b>.
-2. Added instant wake support to USB keyboard and mouse. 
-3. Change the <b>BootProtect</b> option to <b>None</b>.
-4. Removed the Picker GUI and switched to deault Picker mode (Can easily be changed to Previous GUI).
-5. Created a Custom USB Port Map using Hackintool and removed USBInjectAll Kext and changed <b>XhciPortLimit</b> to <b>False</b>. Updated All teh kexts to latest version as of 12 Dec 2020.
+   1. Updated to <b>Opencore 0.6.4</b>.
+   2. Added instant wake support to USB keyboard and mouse. 
+   3. Change the <b>BootProtect</b> option to <b>None</b>.
+   4. Removed the Picker GUI and switched to deault Picker mode (Can easily be changed to Previous GUI).
+   5. Created a Custom USB Port Map using Hackintool and removed USBInjectAll Kext and changed <b>XhciPortLimit</b> to <b>False</b>. Updated All teh kexts to latest version as         of 12 Dec 2020.<br>
+<b>Updated on 21 December 2020:</b>
+Changed the RAM from 6GB to 8GB.
